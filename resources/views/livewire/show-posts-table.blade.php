@@ -99,7 +99,7 @@
 
         <div class="flex justify-end gap-3 mt-6">
           <button type="button" wire:click="closeModal" class="px-4 py-2 text-gray-700 transition bg-gray-200 rounded-lg hover:bg-gray-300">Cancel</button>
-          <button type="submit" class="px-4 py-2 text-white transition bg-blue-600 rounded-lg hover:bg-blue-700">Save</button>
+          <button type="submit" class="px-4 py-2 text-black transition bg-blue-600 rounded-lg hover:bg-blue-700">Save</button>
         </div>
       </form>
     </div>
